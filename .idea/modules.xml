@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayQuestion/arrayQuestion.iml" filepath="$PROJECT_DIR$/arrayQuestion/arrayQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/hashing/hashing.iml" filepath="$PROJECT_DIR$/array/hashing/hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/hashingQuestion/hashingQuestion.iml" filepath="$PROJECT_DIR$/array/hashingQuestion/hashingQuestion.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaDSA.iml" filepath="$PROJECT_DIR$/javaDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching/searching.iml" filepath="$PROJECT_DIR$/searching/searching.iml" />
       <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
     </modules>
   </component>
