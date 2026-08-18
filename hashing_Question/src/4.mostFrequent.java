@@ -1,12 +1,12 @@
 import java.util.HashMap;
 
-class mostfrequent {
+class mostFrequent {
     static void main(String[] args) {
         int[] arr = {2, 5, 2, 7, 5, 2, 7, 7, 7};
         int maxCount =0;
         int maxElement = 0;
 
-        HashMap<Integer,Integer>map = new HashMap<>();
+        HashMap<Integer,Integer> map = new HashMap<>();
 
         for(int i=0;i<arr.length;i++)
         {
@@ -32,4 +32,5 @@ class mostfrequent {
         }
         System.out.println("the most frequent element is " + maxElement);
     }
+
 }

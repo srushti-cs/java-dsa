@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/arrayQuestion/arrayQuestion.iml" filepath="$PROJECT_DIR$/arrayQuestion/arrayQuestion.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/hashing/hashing.iml" filepath="$PROJECT_DIR$/array/hashing/hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/hashingQuestion/hashingQuestion.iml" filepath="$PROJECT_DIR$/array/hashingQuestion/hashingQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing_Question/hashing_Question.iml" filepath="$PROJECT_DIR$/hashing_Question/hashing_Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing_basics/hashing_basics.iml" filepath="$PROJECT_DIR$/hashing_basics/hashing_basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaDSA.iml" filepath="$PROJECT_DIR$/javaDSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/searching/searching.iml" filepath="$PROJECT_DIR$/searching/searching.iml" />
       <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
